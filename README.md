@@ -1,6 +1,8 @@
 # Login-Task-
 This is the Login task:
-
+Commands:
+Start Server: npm start,
+install node_modules: npm i
 Steps: 
 1:Create a user (Signup)
 2:Log the user in (login)
